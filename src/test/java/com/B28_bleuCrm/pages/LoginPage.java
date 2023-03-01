@@ -1,4 +1,4 @@
-package com.project_name.pages;
+package com.B28_bleuCrm.pages;
 
 
 import com.fleet.utilities.Driver;

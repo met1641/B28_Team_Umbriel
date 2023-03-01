@@ -1,4 +1,4 @@
-package com.project_name.utilities;
+package com.B28_bleuCrm.utilities;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

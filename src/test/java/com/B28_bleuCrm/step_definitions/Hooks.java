@@ -1,11 +1,11 @@
-package com.project_name.step_definitions;
+package com.B28_bleuCrm.step_definitions;
 
 
 
 
-import com.project_name.utilities.BrowserUtils;
-import com.project_name.utilities.ConfigurationReader;
-import com.project_name.utilities.Driver;
+import com.B28_bleuCrm.utilities.BrowserUtils;
+import com.B28_bleuCrm.utilities.ConfigurationReader;
+import com.B28_bleuCrm.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

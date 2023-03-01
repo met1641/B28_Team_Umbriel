@@ -1,7 +1,7 @@
-package com.project_name.step_definitions;
+package com.B28_bleuCrm.step_definitions;
 
-import com.project_name.pages.LoginPage;
-import com.project_name.utilities.ConfigurationReader;
+import com.B28_bleuCrm.pages.LoginPage;
+import com.B28_bleuCrm.utilities.ConfigurationReader;
 import io.cucumber.java.en.Given;
 public class LoginStepDefs {
 
